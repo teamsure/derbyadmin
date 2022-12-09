@@ -1,4 +1,2 @@
 [template.environment]
-MEDUSA_BACKEND_URL="https://derbyserver-production.up.railway.app/"
-[build]	
-    command = "npm run build"
+MEDUSA_BACKEND_URL=""
