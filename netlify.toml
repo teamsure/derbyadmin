@@ -2,4 +2,3 @@
 MEDUSA_BACKEND_URL="https://derbyserver-production.up.railway.app/"
 [build]	
     command = "npm run build"
-    build = "publish"
