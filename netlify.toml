@@ -1,5 +1,5 @@
 [template.environment]
 MEDUSA_BACKEND_URL="https://derbyserver-production.up.railway.app/"
 [build]	
-    command = "yarn build"
+    command = "npm run build"
     build = "publish"
