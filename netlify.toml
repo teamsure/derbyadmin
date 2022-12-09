@@ -1,2 +1,3 @@
 [template.environment]
-MEDUSA_BACKEND_URL=""
+MEDUSA_BACKEND_URL="https://derbyserver-production.up.railway.app"
+GATSBY_MEDUSA_BACKEND_URL="https://derbyserver-production.up.railway.app"
